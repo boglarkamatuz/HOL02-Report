@@ -34,4 +34,7 @@ _Using different availability zones, so if one of them is down, we can still use
 _All the subnets listed:_
 ![subnets_all](subnets_all.JPG)
 
-**1.3**
+**1.3 Create Internet Gateway**
+
+_The purpose is connect the routing tables to the internet_
+
