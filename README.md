@@ -59,6 +59,23 @@ After following these steps for each subnet, the connection is shown on the reso
 
 ![RT_resourcemap](RT_resourcemap.JPG)
 
-**1.5 Security Groups**
+**1.5 Security Groups & EC2 instances**
+
+_Security groups are created during launching the instances_
+
+_**HOL02-VPN**_
+
+Extra steps are taken to associate elastic IP with instance
+
+![LI_VPN](LI_VPN_DMZ_1.JPG)
+![LI_VPN](LI_VPN_DMZ_2.JPG)
+![LI_VPN](LI_VPN_DMZ_3.JPG)
+![LI_VPN](LI_VPN_DMZ_4.JPG)
+![LI_VPN](LI_elasticIP.JPG)
+
+
+
+
+
 
 
