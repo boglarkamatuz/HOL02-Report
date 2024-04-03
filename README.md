@@ -37,4 +37,6 @@ _All the subnets listed:_
 **1.3 Create Internet Gateway**
 
 _The purpose is connect the routing tables to the internet_
+_Create and attach to VPC_
 
+![IGW](internet_gateway.JPG)
