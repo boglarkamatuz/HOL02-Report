@@ -14,7 +14,7 @@ Generate key named HOL02 and import it
 
 ### 1. Configure all the AWS resources mentioned in the architecture diagram
 
-**Virtual Private Cloud (VPC)** 
+**1.1 Virtual Private Cloud (VPC)** 
 
 _The Virtual Private Cloud (VPC) serves as the foundation of our AWS infrastructure, providing isolated network resources for our services. The chosen CIDR block (10.0.0.0/16) allows for ample IP address space for future scalability._
 
@@ -23,7 +23,7 @@ _The Virtual Private Cloud (VPC) serves as the foundation of our AWS infrastruct
 ![vpc](vpc_1.jpg)
 ![vpc_create](vpc_create.JPG)
 
-**Create subnets**
+**1.2 Create subnets**
 
 _Using different availability zones, so if one of them is down, we can still use the others. Also using different ranges._
 
@@ -34,4 +34,4 @@ _Using different availability zones, so if one of them is down, we can still use
 _All the subnets listed:_
 ![subsets_all](subsets_all.JPG)
 
-
+**1.3**
