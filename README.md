@@ -18,4 +18,9 @@ Generate key named HOL02 and import it
 
 _The Virtual Private Cloud (VPC) serves as the foundation of our AWS infrastructure, providing isolated network resources for our services. The chosen CIDR block (10.0.0.0/16) allows for ample IP address space for future scalability._
 
-![test](vpc_1.jpg)
+**Create VPC**
+
+![vpc](vpc_1.jpg)
+![vpc_create](vpc_create.JPG)
+
+
