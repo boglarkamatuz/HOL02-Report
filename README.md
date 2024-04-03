@@ -46,3 +46,17 @@ _Create and attach to VPC_
 **1.4 Configure Routing Tables**
 
 _Now that we have the internet gateway, but it is still disconnected. Routing tables are needed, so that subnets are able to access the internet_
+
+Create routing tables for each subnet and create associations:
+
+_(The exact example of DMZ)_
+
+![RT_DMZ](RT_DMZ.JPG)
+![RT_association_DMZ](RT_association_DMZ.JPG)
+![RT_editroute_DMZ](RT_editroute_DMZ.JPG)
+
+After following these steps for each subnet, the connection is shown on the resource map:
+
+![RT_resourcemap](RT_resourcemap.JPG)
+
+
