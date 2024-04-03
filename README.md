@@ -32,6 +32,6 @@ _Using different availability zones, so if one of them is down, we can still use
 ![subnet_Research](subnet_Research.JPG)
 
 _All the subnets listed:_
-![subsets_all](subsets_all.JPG)
+![subnets_all](subnets_all.JPG)
 
 **1.3**
