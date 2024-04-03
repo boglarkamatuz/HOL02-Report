@@ -23,4 +23,15 @@ _The Virtual Private Cloud (VPC) serves as the foundation of our AWS infrastruct
 ![vpc](vpc_1.jpg)
 ![vpc_create](vpc_create.JPG)
 
+**Create subnets**
+
+_Using different availability zones, so if one of them is down, we can still use the others. Also using different ranges._
+
+![subnet_DMZ](subnet_DMZ.JPG)
+![subnet_Production](subnet_Production.JPG)
+![subnet_Research](subnet_Research.JPG)
+
+_All the subnets listed:_
+![subsets_all](subsets_all.JPG)
+
 
