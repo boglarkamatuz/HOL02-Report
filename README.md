@@ -42,3 +42,7 @@ _Create and attach to VPC_
 
 ![IGW](internet_gateway.JPG)
 ![IGW_VPC](IGW_VPC.JPG)
+
+**1.4 Configure Routing Tables**
+
+_Now that we have the internet gateway, but it is still disconnected. Routing tables are needed, so that subnets are able to access the internet_
