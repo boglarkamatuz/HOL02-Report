@@ -94,6 +94,20 @@ Extra steps are taken to only accept inbound traffic from HOL02-DMZ-SG through p
 ![LI_VPN](LI_Jup_Res_4.JPG)
 
 
+**1.6 S3 Buckets**
+
+_Create S3 bucket_
+
+When trying to create the bucket with the expected naming "HOL02-Notebooks" an error has been encountered. To resolve lower case letters were used and also our initials with versioning to have a unique bucket name.
+
+![S3](S3_1.JPG)
+![S3](S3_2.JPG)
+![S3](S3_3.JPG)
+
+
+### Create a Jupyter Notebook named hol02-app.ipynb and upload it to the S3 bucket
+
+![S3](S3_4.JPG)
 
 
 
