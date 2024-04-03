@@ -7,6 +7,7 @@ This report provides a detailed overview of the proposed hybrid infrastructure f
 
 ### 0. Prerequisites
 Generate key named HOL02
+
 ![keygen](keygen.JPG)
 
 ### 1. Configure all the AWS resources mentioned in the architecture diagram
