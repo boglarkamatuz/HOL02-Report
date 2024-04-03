@@ -74,6 +74,17 @@ Extra steps are taken to associate elastic IP with instance
 ![LI_VPN](LI_elasticIP.JPG)
 
 
+_**HOL02-VoilaServer**_
+
+Extra steps are taken to only accept inbound traffic from HOL02-DMZ-SG through port 22(SSH)
+
+![LI_VPN](LI_Vol_Prod_1.JPG)
+![LI_VPN](LI_Vol_Prod_2.JPG)
+![LI_VPN](LI_Vol_Prod_3.JPG)
+![LI_VPN](LI_Vol_Prod_4.JPG)
+
+
+
 
 
 
