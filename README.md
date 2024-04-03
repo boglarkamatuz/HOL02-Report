@@ -59,4 +59,6 @@ After following these steps for each subnet, the connection is shown on the reso
 
 ![RT_resourcemap](RT_resourcemap.JPG)
 
+**1.5 Security Groups**
+
 
