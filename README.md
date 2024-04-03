@@ -41,3 +41,4 @@ _The purpose is connect the routing tables to the internet_
 _Create and attach to VPC_
 
 ![IGW](internet_gateway.JPG)
+![IGW_VPC](IGW_VPC.JPG)
