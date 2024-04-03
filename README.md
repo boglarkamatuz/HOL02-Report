@@ -10,7 +10,7 @@ Generate key named HOL02 and import it
 
 ![keygen](keygen.JPG)
 
-![key_import](keyimport.jpg)
+![key_import](key_import.jpg)
 
 ### 1. Configure all the AWS resources mentioned in the architecture diagram
 
