@@ -1,2 +1,2 @@
 # HOL02-Report
-Hol02 assignment Levi, Bogi
+_Levian Gonzalez, Boglarka Matuz_
