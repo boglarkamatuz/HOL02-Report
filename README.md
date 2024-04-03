@@ -84,6 +84,15 @@ Extra steps are taken to only accept inbound traffic from HOL02-DMZ-SG through p
 ![LI_VPN](LI_Vol_Prod_4.JPG)
 
 
+_**HOL02-Jupyter**_
+
+Extra steps are taken to only accept inbound traffic from HOL02-DMZ-SG through port 22(SSH) and port 8888(TCP)
+
+![LI_VPN](LI_Jup_Res_1.JPG)
+![LI_VPN](LI_Jup_Res_2.JPG)
+![LI_VPN](LI_Jup_Res_3.JPG)
+![LI_VPN](LI_Jup_Res_4.JPG)
+
 
 
 
