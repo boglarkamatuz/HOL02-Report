@@ -110,6 +110,11 @@ When trying to create the bucket with the expected naming "HOL02-Notebooks" an e
 ![S3](S3_4.JPG)
 
 
+### 3. OpenVPN Configuration
 
+The steps provided were followed to install OpenVPN on the HOL02-VPN instance
 
-
+![openvpn](openvpn_1.JPG)
+![openvpn](openvpn_2.JPG)
+![openvpn](openvpn_3.JPG)
+![openvpn](openvpn_4.JPG)
