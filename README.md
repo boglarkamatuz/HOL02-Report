@@ -118,3 +118,14 @@ The steps provided were followed to install OpenVPN on the HOL02-VPN instance
 ![openvpn](openvpn_2.JPG)
 ![openvpn](openvpn_3.JPG)
 ![openvpn](openvpn_4.JPG)
+
+After installation, I navigated to https://3.229.85.43:943/admin and logged in
+
+![openvpn](openvpn_5.JPG)
+![openvpn](openvpn_6.JPG)
+
+Once logged in, in the VPN Settings and changed the hostname to the elastic IP
+
+![openvpn](openvpn_7.JPG)
+![openvpn](openvpn_8.JPG)
+
