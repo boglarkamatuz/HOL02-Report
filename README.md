@@ -129,3 +129,10 @@ Once logged in, in the VPN Settings and changed the hostname to the elastic IP
 ![openvpn](openvpn_7.JPG)
 ![openvpn](openvpn_8.JPG)
 
+Then subnets were added and "Should client Internet traffic be routed through the VPN?" was set to "No"
+
+![openvpn](openvpn_9.JPG)
+
+**Installing the OpenVPN client**
+
+![openvpn](openvpn_10.JPG)
