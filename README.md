@@ -119,7 +119,7 @@ The steps provided were followed to install OpenVPN on the HOL02-VPN instance
 ![openvpn](openvpn_3.JPG)
 ![openvpn](openvpn_4.JPG)
 
-After installation, I navigated to https://3.229.85.43:943/admin and logged in
+After installation, we navigated to https://3.229.85.43:943/admin and logged in
 
 ![openvpn](openvpn_5.JPG)
 ![openvpn](openvpn_6.JPG)
@@ -136,3 +136,12 @@ Then subnets were added and "Should client Internet traffic be routed through th
 **Installing the OpenVPN client**
 
 ![openvpn](openvpn_10.JPG)
+
+
+### 4. Nginx Configuration
+
+
+
+
+
+
