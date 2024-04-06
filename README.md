@@ -106,7 +106,7 @@ When trying to create the bucket with the expected naming "HOL02-Notebooks" an e
 
 
 ### 2. Create a Jupyter Notebook named hol02-app.ipynb and upload it to the S3 bucket
-
+ 
 ![S3](S3_4.JPG)
 
 
