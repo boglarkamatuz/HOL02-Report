@@ -142,8 +142,8 @@ Then subnets were added and "Should client Internet traffic be routed through th
 
 The commands provided were followed to install Nginx on the EC2 instance named HOL02-VoilaServer:
 
-![nginx](nginx_1)
-![nginx](nginx_2)
+![nginx](nginx_1.JPG)
+![nginx](nginx_2.JPG)
 
 
 
