@@ -156,7 +156,7 @@ _2. 2. bash install.sh)_
 
 _Then using pip install jupyter, to install jupyer as well._
 
-The following steps shows the configuration:
+The following steps show the configuration:
 
 ![jupconfig](images/jup_config_1.JPG)
 ![jupconfig](images/jup_config_2.JPG)
