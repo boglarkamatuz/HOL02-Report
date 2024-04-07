@@ -177,10 +177,13 @@ Configuration of AWS CLI:
 _AWS configuration with the keys and creating a sync_to_s3.sh script that uses the 'aws s3 sync' command to synchronize files from a local directory on the EC2 instance to an S3 bucket._
 
 sync_to_s3.sh: 
+
 _#!/bin/bash_
+
 _#aws s3 sync /home/ec2-user/notebooks s3://hol02-notebooks-lb2/_
 
-_Afterwards, a cron job was created to make the synchronizatio automatic._
+
+_Afterwards, a cron job was created to make the synchronization automatic._
 
 ![sync](images/sync_jup_2.JPG)
 
