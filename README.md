@@ -170,7 +170,7 @@ To set up a cron job to synchronize files from an EC2 instance to an S3 bucket, 
 
 _connection to HOL02-Jupyter isntance_
 
-![sync](sync_jup_1.JPG)
+![sync](images/sync_jup_1.JPG)
 
 
 
