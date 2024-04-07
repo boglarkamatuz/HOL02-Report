@@ -168,9 +168,21 @@ The following steps show the configuration:
 
 To set up a cron job to synchronize files from an EC2 instance to an S3 bucket, firstly _awscli_ packge was installed.
 
-_connection to HOL02-Jupyter isntance_
+_connection to HOL02-Jupyter instance_
 
 ![sync](images/sync_jup_1.JPG)
+
+Configuration of AWS CLI:
+
+_AWS configuration with the keys and creating a sync_to_s3.sh script that uses the 'aws s3 sync' command to synchronize files from a local directory on the EC2 instance to an S3 bucket._
+
+sync_to_s3.sh: 
+_#!/bin/bash_
+_#aws s3 sync /home/ec2-user/notebooks s3://hol02-notebooks-lb2/_
+
+_Afterwards, a cron job was created to make the synchronizatio automatic._
+
+![sync](images/sync_jup_2.JPG)
 
 
 
