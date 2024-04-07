@@ -147,7 +147,7 @@ The commands provided were followed to install Nginx on the EC2 instance named H
 ![nginx](images/nginx_2.JPG)
 
 
-### 4. Jupyter Configuration
+### 5. Jupyter Configuration
 
 For the installation of python the steps shown in class were followed. 
 
@@ -163,6 +163,14 @@ The following steps show the configuration:
 ![jupconfig](images/jup_config_3.JPG)
 ![jupconfig](images/jup_config_4.JPG)
 
+
+### 6. Synchronization
+
+To set up a cron job to synchronize files from an EC2 instance to an S3 bucket, firstly _awscli_ packge was installed.
+
+_connection to HOL02-Jupyter isntance_
+
+![sync](sync_jup_1.JPG)
 
 
 
