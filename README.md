@@ -138,6 +138,9 @@ Then subnets were added and "Should client Internet traffic be routed through th
 ![openvpn](images/openvpn_10.JPG)
 
 
+![openvpn](images/open_vpn_connected.JPG)
+
+
 ### 4. Nginx Configuration
 
 The commands provided were followed to install Nginx on the EC2 instance named HOL02-VoilaServer:
