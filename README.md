@@ -186,6 +186,18 @@ _Afterwards, a cron job was created to make the synchronization automatic._
 ![sync](images/sync_jup_2.JPG)
 
 
+_HOL02-VoilaServer_
 
+Firstly, a script for syncing  was created:
+
+_sync_voila.sh:_
+
+#!/bin/bash
+
+aws s3 cp s3://hol02-notebooks-lb2/hol02-app.ipynb /home/ec2-user/
+
+This script syncs the hol02-app.ipynb file from the S3 bucket to the EC2 instance. Then a cron job was created for automation, so the script previously mentioend runs every day at midnight.
+
+![sync](images/sync_vs_1.JPG)
 
 
