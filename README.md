@@ -147,5 +147,24 @@ The commands provided were followed to install Nginx on the EC2 instance named H
 ![nginx](images/nginx_2.JPG)
 
 
+### 4. Jupyter Configuration
+
+For the installation of python the steps shown in class were followed. 
+
+_(1. vi install.sh and using the code that was shared_
+_2. 2. bash install.sh)_
+
+_Then using pip install jupyter, to install jupyer as well._
+
+The following steps shows the configuration:
+
+![jupconfig](images/jup_config_1.JPG)
+![jupconfig](images/jup_config_2.JPG)
+![jupconfig](images/jup_config_3.JPG)
+![jupconfig](images/jup_config_4.JPG)
+
+
+
+
 
 
